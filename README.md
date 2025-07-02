@@ -58,11 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshitnakrani&show_icons=true&theme=radical)
-
----
 
 ## 🌟 Featured Projects
 
@@ -73,4 +68,3 @@
 
 ---
 
-Let me know if you want me to create a `.md` file ready to push on GitHub!
